@@ -1,0 +1,25 @@
+name: PunishmentGUI
+version: 1.1.3
+description: Gives a GUI window to punish players
+author: Chiller
+main: me.chiller.punishmentgui.core.Main
+commands:
+  punish:
+    description: 'Punishes the given player'
+    usage: '§c§lPUNISH §r§6Do /punish <PlayerName> <Reason>'
+    aliases: p
+    permission: 'punish.use'
+    permission-message: ''
+permissions:
+  punish.use:
+    description: 'Gives the ability to use the punish GUI'
+  punish.protected:
+    description: 'Protects the player from being punished'
+  punish.temp_mute:
+    description: 'Gives the ability to temp mute a player in the GUI'
+  punish.temp_ban:
+    description: 'Gives the ability to temp ban a player in the GUI'
+  punish.perm_ban:
+    description: 'Gives the ability to perm ban a player in the GUI'
+  punish.perm_mute:
+    description: 'Gives the ability to perm mute a player in the GUI'
