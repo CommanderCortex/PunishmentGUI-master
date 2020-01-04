@@ -1,5 +1,5 @@
 # PunishmentGUI
-Bukkit plugin originally created by: **Ethan160503**, modified by **TheChillerCraft**!
+Bukkit plugin originally created by: **Ethan160503**, modified by **CommanderCortex**!
 
 ### About
 This plugin was created to allow server admins to punish other players in their server.
